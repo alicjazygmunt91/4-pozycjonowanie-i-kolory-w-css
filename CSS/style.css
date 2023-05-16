@@ -1,0 +1,102 @@
+.outer {
+    height: 460px;
+    width: 460px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.inner {
+    height: 150px;
+    width: 150px;
+    border: 2px solid white;
+    position: relative;
+
+}
+
+.circle {
+    width: 80px;
+    height: 80px;
+    background-color: pink;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+    border: 2px solid black
+}
+
+#c1 {
+    background-color: pink;
+}
+
+#c2 {
+    background-color: grey;
+}
+
+#c3 {
+    background-color: purple;
+}
+
+#c4 {
+    background-color: green;
+}
+
+#c5 {
+    background-color: red;
+}
+
+#c6 {
+    background-color: blue;
+}
+
+#c7 {
+    background-color: orange;
+}
+
+#c8 {
+    background-color: yellow;
+}
+
+#c9 {
+    background-color: black;
+}
+
+
+
+
+
+ .red {
+    background-color: red;
+  }
+  
+  .yellow {
+    background-color: blue;
+  }
+  
+  .purple {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: yellow;
+  }
+  
+  .black {
+    background-color: black;
+  }
+  
+  .grey {
+    background-color: orange;
+  }
+  
+  .green {
+    background-color: purple;
+  }
+  
+  .orange {
+    background-color: grey;
+  }
+  
+  .pink {
+    background-color: pink;
+  } 
